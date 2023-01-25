@@ -7,6 +7,17 @@
 
  ## **REST API SERVICE**
 
+
+The Digital Wallet Application's RESTful API, developed by E PAY, offers customers the convenience and flexibility of being able to transfer money to and from their digital wallet and linked bank accounts. The API also allows for transactions with other registered customers on the E PAY platform and the ability to make payments directly to saved beneficiaries through their bank accounts. 
+
+In addition to these features, the API also enables customers to manage their bills and perform basic CRUD operations, similar to other digital wallet applications. Security is of utmost importance, and the API Webservice implements customer and admin authentication and validation. 
+
+The primary objective of the API is to provide customers with a streamlined and user-friendly digital wallet payment experience. The API is built on REST Architecture and can be consumed by any client that supports HTTP Protocol. 
+
+This solution is perfect for anyone looking for quick, easy, and secure online transactions and can help small businesses, freelancers, and individuals manage their transactions and bills easily and securely. It can also be integrated with any application that supports REST API, making it suitable for a wide range of use cases.
+
+
+
 **E PAY WALLET** has developed this REST API, which allows **Customers** to transfer **Money** to their **Digital Wallet** from **Bank**, and vice-versa, **Customers** can maintain **Transactions** with other **Registered Customers** on the E PAY, can make **Transactions** directly through Bank Account to their saved **Beneficiaries**.
 **Customers** through **E PAY** can also make **Payments** for their **Utility & Other Bills** and can perform all the basic fundamental **CRUD** operations like any other Digital Wallet Application.
 
