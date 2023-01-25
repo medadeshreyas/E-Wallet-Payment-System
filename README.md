@@ -17,35 +17,34 @@ The primary objective of the API is to provide customers with a streamlined and 
 This solution is perfect for anyone looking for quick, easy, and secure online transactions and can help small businesses, freelancers, and individuals manage their transactions and bills easily and securely. It can also be integrated with any application that supports REST API, making it suitable for a wide range of use cases.
 
 
-Features :
-
-    Transfer money to and from digital wallet and linked bank accounts
-    Perform transactions with other registered customers on the E PAY platform
-    Make payments directly to saved beneficiaries through bank accounts
-    Manage bills and perform basic CRUD operations
-    Customer and admin authentication and validation
-    Streamlined and user-friendly digital wallet payment experience
-    Built on REST Architecture
-    Consumable by clients that support HTTP Protocol
-    Suitable for quick, easy and secure online transactions
-    Helps small businesses, freelancers and individuals manage their transactions and bills easily and securely
-    Can be integrated with any application that supports REST API
-    Suitable for a wide range of use cases.
-
-
-
-**E PAY WALLET** has developed this REST API, which allows **Customers** to transfer **Money** to their **Digital Wallet** from **Bank**, and vice-versa, **Customers** can maintain **Transactions** with other **Registered Customers** on the E PAY, can make **Transactions** directly through Bank Account to their saved **Beneficiaries**.
-**Customers** through **E PAY** can also make **Payments** for their **Utility & Other Bills** and can perform all the basic fundamental **CRUD** operations like any other Digital Wallet Application.
-
-**E Pay** API also provides **Customer, Admin Authentication & Validation**. 
-
-The api's primary objective is to provide **Customers with both a Simple & User-Friendly Digital Wallet Payment Experience**.
-
 The application will be used by the **two** categories of users:
 
 - **Admin (Administrator)**
 
 - **User (Customer)** 
+
+
+
+
+
+## Features
+
+ - Transfer money to and from digital wallet and linked bank accounts
+ - Perform transactions with other registered customers on the E PAY platform
+ - Make payments directly to saved beneficiaries through bank accounts
+ - Manage bills and perform basic CRUD operations
+ - Customer and admin authentication and validation
+ - Streamlined and user-friendly digital wallet payment experience
+ - Built on REST Architecture
+ - Consumable by clients that support HTTP Protocol
+ - Suitable for quick, easy and secure online transactions
+ - Helps small businesses, freelancers and individuals manage their transactions and bills easily and securely
+ - Can be integrated with any application that supports REST API
+ - Suitable for a wide range of use cases.
+
+
+
+
 
 ## Tech Stack
 
